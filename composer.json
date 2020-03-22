@@ -1,0 +1,16 @@
+{
+    "name": "miaoyijin/websocket",
+    "description": "websoket test",
+    "authors": [
+        {
+            "name": "mouyj",
+            "email": "mouyj@2345.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {"": ["src/"]}
+    }
+}
